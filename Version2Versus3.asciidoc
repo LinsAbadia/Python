@@ -1,0 +1,3 @@
+Python version 3.6 rather than 2.7 because: 1. Certain functions are and
+will be deprecated i.e. phased-out and no longer valid) 2. Support for
+version 2 has been annouced that it will only be until 2020
